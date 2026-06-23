@@ -57,7 +57,8 @@ Each dictionary entry contains:
 
 ## Screenshots
 
-Add screenshots of the application here.
+<img width="1007" height="800" alt="image" src="https://github.com/user-attachments/assets/6568a373-479e-41f3-ac02-ec966f353b89" />
+
 
 ## Future Improvements
 
