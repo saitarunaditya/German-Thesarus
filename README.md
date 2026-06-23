@@ -71,4 +71,4 @@ Each dictionary entry contains:
 
 ## Author
 
-**Sai Tharun Aditya Kesana**
+**Sai Tharun Aditya, Kesana**
