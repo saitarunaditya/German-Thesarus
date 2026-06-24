@@ -92,6 +92,5 @@ if word:
         col1,col2,col3 = st.columns([1,2,1])
 
         with col2:
-            st.image("not-found.png")
             st.error("Ich kenne dieses Wort nicht!")
 
